@@ -2,10 +2,10 @@
 
 > CLI to change quotes in a file from single to double, or double to single.
 
-## Install with [npm](npmjs.org)
+## Install globally with [npm](npmjs.org):
 
 ```bash
-npm i change-quotes --save
+npm i -g change-quotes
 ```
 
 ## Usage
