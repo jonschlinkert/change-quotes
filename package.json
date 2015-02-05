@@ -1,6 +1,6 @@
 {
   "name": "change-quotes",
-  "description": "CLI to change quotes from single to double, or double to single.",
+  "description": "CLI to change quotes in a file from single to double, or double to single.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/change-quotes",
   "author": {

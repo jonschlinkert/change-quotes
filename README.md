@@ -1,6 +1,6 @@
 # change-quotes [![NPM version](https://badge.fury.io/js/change-quotes.svg)](http://badge.fury.io/js/change-quotes)
 
-> CLI to change quotes from single to double, or double to single.
+> CLI to change quotes in a file from single to double, or double to single.
 
 ## Install with [npm](npmjs.org)
 
