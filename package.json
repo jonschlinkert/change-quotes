@@ -1,0 +1,55 @@
+{
+  "name": "change-quotes",
+  "description": "CLI to change quotes from single to double, or double to single.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/change-quotes",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/change-quotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/change-quotes/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/change-quotes/blob/master/LICENSE"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "change-quotes": "./cli.js"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "log-symbols": "^1.0.1",
+    "minimist": "^1.1.0",
+    "to-double-quotes": "^1.0.0",
+    "to-single-quotes": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "double",
+    "double-quotes",
+    "quotation",
+    "quotes",
+    "single",
+    "single-quotes"
+  ]
+}
